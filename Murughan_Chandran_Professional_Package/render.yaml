@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: murughan-chandran-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./website
